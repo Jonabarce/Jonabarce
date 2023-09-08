@@ -4,6 +4,7 @@
 * 🌐 Check out my <a href="https://www.jonatanvevang.no/" target="_blank">Website</a>
 * ![](https://komarev.com/ghpvc/?username=Jonabarce)
 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jonabarce&theme=transparent"/>
 
 
 
