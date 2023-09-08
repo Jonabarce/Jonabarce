@@ -4,7 +4,12 @@
 
 - 🌱 I’m currently learning **React and React Native**
 - 📧 Reach me at: <a href="mailto:javevang1@gmail.com">javevang1@gmail.com</a>
-- 🌐 Check out my <a href="https://www.jonatanvevang.no/" target="_blank">Website</a>
+
+
+<h3 align="left">Check out my website:</h3>
+<p align="left">
+<a href="https://www.jonatanvevang.no/" target="_blank">Website</a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
