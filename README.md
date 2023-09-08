@@ -1,3 +1,7 @@
+<h1 align="center">Hi 👋, I'm Jonatan Andre Vevang</h1>
+<h3 align="center">Studying Computer Engineering at NTNU in Trondheim</h3>
+
+
 * 👋 Hello, I’m Jonatan Andre Vevang 
 * 😁 Im currently learning React and React Native
 * 📧 Reach me at: <a href="mailto:javevang1@gmail.com">javevang1@gmail.com</a>
