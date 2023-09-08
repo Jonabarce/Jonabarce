@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jonatan Andre Vevang</h1>
 <h3 align="center">Studying Computer Engineering at NTNU in Trondheim</h3>
 
+<h3 align="left">Currently learning:</h3>
 
-<h3 align="left">Currently learing</h3>
-<p align="left">
 - React
 - Kotlin
 - Machine learning
-</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,7 +20,7 @@
 <h3 align="left">Check out my website:</h3>
 <p align="left">
     <a href="https://www.jonatanvevang.no/" target="_blank">
-        <img align="center" src="https://cdn-icons-png.flaticon.com/512/16/16035.png" alt="jonatanvevang.no" height="30" width="40" />
+        <img align="center" src="https://cdn-icons-png.flaticon.com/512/2301/2301126.png" alt="jonatanvevang.no" height="30" width="40" />
     </a>
 </p>
 
