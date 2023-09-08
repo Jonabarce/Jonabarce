@@ -4,9 +4,9 @@
 
 <h3 align="left">Currently learing</h3>
 <p align="left">
-* <p React </p>
-* <p Kotlin </p>
-* <p Machine learning </p>
+- React
+- Kotlin
+- Machine learning
 </p>
 
 <h3 align="left">Connect with me:</h3>
