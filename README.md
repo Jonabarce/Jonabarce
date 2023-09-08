@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jonatan Andre Vevang</h1>
 <h3 align="center">Studying Computer Engineering at NTNU in Trondheim</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jonabarce&label=Profile%20views&color=0e75b6&style=flat" alt="jonabarce" /> </p>
-
 
 - 🌱 I’m currently learning **React and React Native**
 - 📧 Reach me at: <a href="mailto:javevang1@gmail.com">javevang1@gmail.com</a>
@@ -19,7 +17,8 @@
 
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jonabarce&theme=transparent"/>
-* ![](https://komarev.com/ghpvc/?username=Jonabarce)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jonabarce&label=Profile%20views&color=0e75b6&style=flat" alt="jonabarce" /> </p>
+
 
 
 
