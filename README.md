@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jonatan Andre Vevang</h1>
-<h3 align="center">Studying Computer Engineering at NTNU in Trondheim</h3>
+<h3 align="center"> am a third year computer engineering student at NTNU, based in Trondheim, Norway</h3>
 
 <h3 align="left">Currently learning:</h3>
 
