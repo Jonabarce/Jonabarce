@@ -2,8 +2,12 @@
 <h3 align="center">Studying Computer Engineering at NTNU in Trondheim</h3>
 
 
-
-- 🌱 I’m currently learning **React and React Native**
+<h3 align="left">Currently learing</h3>
+<p align="left">
+* <p React </p>
+* <p Kotlin </p>
+* <p Machine learning </p>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
