@@ -17,7 +17,7 @@
 
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jonabarce&theme=transparent"/>
-![](https://komarev.com/ghpvc/?username=Jonabarce)
+* ![](https://komarev.com/ghpvc/?username=Jonabarce)
 
 
 
