@@ -70,7 +70,8 @@
 
 
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jonabarce&theme=transparent"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jonabarce&theme=transparent&hide=jupyter%20notebook
+" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonabarce&label=Profile%20views&color=0e75b6&style=flat" alt="jonabarce" /> </p>
 
 
