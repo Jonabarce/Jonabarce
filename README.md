@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jonatan Andre Vevang</h1>
-<h3 align="center">I am a third year computer engineering student at NTNU, based in Trondheim, Norway</h3>
-
-<h3 align="left">Currently learning:</h3>
-
-- NextJS
+<h3 align="center">I am a Developer at Piscada, based in Trondheim, Norway</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
