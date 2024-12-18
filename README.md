@@ -11,12 +11,7 @@
     </a>
 </p>
 
-<h3 align="left">Check out my website:</h3>
-<p align="left">
-    <a href="https://www.jonatanvevang.no/" target="_blank">
-        <img align="center" src="https://cdn-icons-png.flaticon.com/512/2301/2301126.png" alt="jonatanvevang.no" height="30" width="40" />
-    </a>
-</p>
+
 
 
 
